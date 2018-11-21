@@ -5,7 +5,6 @@ from django.core.files.storage import FileSystemStorage
 
 import os
 
-
 import re
 import math
 # within = re.compile(r'\"\")
